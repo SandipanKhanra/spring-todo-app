@@ -7,7 +7,9 @@
 <title>Login Page</title>
 </head>
 <body>
-	<h1>Please enter the login details</h1>
+	<h1>Welcome to Login page</h1>
+	<h2>Please enter the login details</h2>
+	<pre>${errorMessage}</pre>
 	<form method='post'>
 		Name:<input type='text' name="name"> Password:<input
 			type="password" name="password"> <input type='submit'
