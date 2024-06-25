@@ -1,0 +1,10 @@
+insert into todo(ID,USERNAME,DESCRIPTION,TARGET_DATE,DONE)
+values (10001,'gauranga','Bhakti Shastri',CURRENT_DATE(),false);
+insert into todo(ID,USERNAME,DESCRIPTION,TARGET_DATE,DONE)
+values (10002,'gauranga','Bhakti Bhaivab',CURRENT_DATE(),false);
+insert into todo(ID,USERNAME,DESCRIPTION,TARGET_DATE,DONE)
+values (10003,'nitai','Bhakti Shastri',CURRENT_DATE(),false);
+insert into todo(ID,USERNAME,DESCRIPTION,TARGET_DATE,DONE)
+values (10004,'nitai','Positive Thinker',CURRENT_DATE(),false);
+insert into todo(ID,USERNAME,DESCRIPTION,TARGET_DATE,DONE)
+values (10005,'gauranga','Self Manager',CURRENT_DATE(),false);
